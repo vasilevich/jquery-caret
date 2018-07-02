@@ -1,0 +1,8 @@
+{
+  "name": "jquery-caret",
+  "version": "1.0.0",
+  "description": "Gives ability to control the caret behavior with jquery",
+  "main": "dist/jquery-caret.min.js",
+  "repository": "https://github.com/vasilevich/jquery-caret",
+  "license": "MIT"
+}
